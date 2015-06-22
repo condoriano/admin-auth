@@ -1,0 +1,11 @@
+{
+    "name": "condoriano/admin_auth",
+    "description": "Admin Auth",
+    "authors": [
+        {
+            "name": "Vlad Maksimchuk",
+            "email": "vladmv@gmail.com"
+        }
+    ],
+    "require": {}
+}
